@@ -1,0 +1,26 @@
+Địa chỉ IP: 127.0.0.1 vào lúc: 10:57:13 23/08/2015 gây ra lỗi: lỗi lưu ý (notice) ! mã báo lỗi: 8 - lỗi: A session had already been started - ignoring session_start() - tệp lỗi: C:\xampp\htdocs\vietFrameWork_V1.0.3\index.php - dòng lỗi: 34
+
+Địa chỉ IP: 127.0.0.1 vào lúc: 10:57:14 23/08/2015 gây ra lỗi: lỗi lưu ý (notice) ! mã báo lỗi: 8 - lỗi: A session had already been started - ignoring session_start() - tệp lỗi: C:\xampp\htdocs\vietFrameWork_V1.0.3\index.php - dòng lỗi: 34
+
+Địa chỉ IP: 127.0.0.1 vào lúc: 16:00:49 18/07/2016 gây ra lỗi: lỗi lưu ý (notice) ! mã báo lỗi: 8 - lỗi: Undefined index: username - tệp lỗi: D:\Webspace\vietframework\hienthi\coban\xuatdulieu.php - dòng lỗi: 5
+
+Địa chỉ IP: 127.0.0.1 vào lúc: 16:00:49 18/07/2016 gây ra lỗi: lỗi lưu ý (notice) ! mã báo lỗi: 8 - lỗi: Undefined index: password - tệp lỗi: D:\Webspace\vietframework\hienthi\coban\xuatdulieu.php - dòng lỗi: 5
+
+Địa chỉ IP: 127.0.0.1 vào lúc: 16:00:49 18/07/2016 gây ra lỗi: lỗi lưu ý (notice) ! mã báo lỗi: 8 - lỗi: Undefined index: username - tệp lỗi: D:\Webspace\vietframework\hienthi\coban\xuatdulieu.php - dòng lỗi: 5
+
+Địa chỉ IP: 127.0.0.1 vào lúc: 16:00:49 18/07/2016 gây ra lỗi: lỗi lưu ý (notice) ! mã báo lỗi: 8 - lỗi: Undefined index: password - tệp lỗi: D:\Webspace\vietframework\hienthi\coban\xuatdulieu.php - dòng lỗi: 5
+
+Địa chỉ IP: 127.0.0.1 vào lúc: 16:00:49 18/07/2016 gây ra lỗi: lỗi lưu ý (notice) ! mã báo lỗi: 8 - lỗi: Undefined index: password - tệp lỗi: D:\Webspace\vietframework\hienthi\coban\xuatdulieu.php - dòng lỗi: 5
+
+Địa chỉ IP: 127.0.0.1 vào lúc: 16:00:50 18/07/2016 gây ra lỗi: lỗi lưu ý (notice) ! mã báo lỗi: 8 - lỗi: Undefined index: username - tệp lỗi: D:\Webspace\vietframework\hienthi\coban\xuatdulieu.php - dòng lỗi: 5
+
+Địa chỉ IP: 127.0.0.1 vào lúc: 16:00:50 18/07/2016 gây ra lỗi: lỗi lưu ý (notice) ! mã báo lỗi: 8 - lỗi: Undefined index: password - tệp lỗi: D:\Webspace\vietframework\hienthi\coban\xuatdulieu.php - dòng lỗi: 5
+
+Địa chỉ IP: 127.0.0.1 vào lúc: 16:00:50 18/07/2016 gây ra lỗi: lỗi lưu ý (notice) ! mã báo lỗi: 8 - lỗi: Undefined index: username - tệp lỗi: D:\Webspace\vietframework\hienthi\coban\xuatdulieu.php - dòng lỗi: 5
+
+Địa chỉ IP: 127.0.0.1 vào lúc: 16:00:50 18/07/2016 gây ra lỗi: lỗi lưu ý (notice) ! mã báo lỗi: 8 - lỗi: Undefined index: password - tệp lỗi: D:\Webspace\vietframework\hienthi\coban\xuatdulieu.php - dòng lỗi: 5
+
+Địa chỉ IP: 127.0.0.1 vào lúc: 16:00:50 18/07/2016 gây ra lỗi: lỗi lưu ý (notice) ! mã báo lỗi: 8 - lỗi: Undefined index: password - tệp lỗi: D:\Webspace\vietframework\hienthi\coban\xuatdulieu.php - dòng lỗi: 5
+
+Địa chỉ IP: 127.0.0.1 vào lúc: 16:28:12 18/07/2016 gây ra lỗi: lỗi lưu ý (notice) ! mã báo lỗi: 8 - lỗi: session_start(): ps_files_cleanup_dir: opendir(C:\Windows\temp) failed: No error (0) - tệp lỗi: D:\Webspace\vietframework\index.php - dòng lỗi: 32
+

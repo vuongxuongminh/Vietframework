@@ -1,0 +1,236 @@
+body {
+	background-color: #682d77;
+}
+.nopadding {
+	padding: 0 !important;
+}
+a:hover {
+	text-decoration: none;
+}
+.content-vietframework {
+	width: 100%;
+	float: left;
+	background-color: #fff;
+	color: #000;
+}
+
+.menu, .main-img, .main-content, .footer {
+	width: 100%;
+	min-width: 992px;
+	float: left;
+}
+.message-box{
+        font-family: tahoma, arial; 
+        font-size:14px; 
+        width:96%; 
+        margin:1%; 
+        background-color: #c60000; 
+        border-radius: 5px; 
+        padding: 1%; 
+        color: #fff; 
+        word-wrap: break-word; 
+        box-shadow: 0px 0px 7px rgba(0,0,0,0.5);
+        font-weight: bold;
+}
+.menu {
+	height: 60px;
+	background-color: #6b418e;
+	color: #fff;
+	font-family: "open_sanslight";
+}
+.main-img {
+	height: 270px;
+	background-image: url(../../hinhanh/vietFrameWork/nen-3.jpg);
+	background-position: center top;
+	background-repeat: no-repeat;
+}
+.main-content {
+	min-height: 470px;
+	padding-bottom: 30px;
+	background-color: #7b519d;
+}
+.main-content h1, .main-content h2 {
+	color: #fff;
+	font-family: "open_sanslight";
+}
+.footer {
+	height: 150px;
+	background-color: #6b418e;
+}
+.inner {
+	width: 992px;
+	margin: 0 auto;
+}
+.logo {
+	display: block;
+	float: left;
+	padding-top: 15px;
+}
+.logo img {
+	display: block;
+	float: left;
+}
+.logo a {
+	display: block;
+	float: left;
+	padding: 2px 0 0 15px;
+	color: #fff;
+	font-size: 18px;
+	cursor: pointer;
+}
+.btn-trogiup {
+	margin-top: 12px;
+	float: right;
+}
+.text-tieude {
+	color: #fff;
+	padding: 20px 0 30px 0;
+}
+.row-box {
+	min-height: 220px;
+}
+.box {
+	position: relative;
+	float: left;
+	width: 175px;
+	height: 175px;
+	margin: 0 20px;
+}
+.box-first {
+	margin: 0 20px 0 85px;
+}
+.box-round {
+	position: absolute;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	width: 174px;
+	height: 174px;
+	border-radius: 87px;
+	background-color: #fff;
+	overflow: hidden;
+	border: none;
+}
+.img-cross {
+	display: block;
+	position: absolute;
+	z-index: 1;
+	top: 36px;
+	left: 62px;
+	transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-ms-transition: all 0.5s;
+}
+.img-tick {
+	display: none;
+	position: absolute;
+	z-index: 1;
+	top: 36px;
+	left: 53px;
+	transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-ms-transition: all 0.5s;
+}
+.box-content {
+	position: absolute;
+	z-index: 2;
+	top: 120px;
+	left: 0px;
+	width: 174px;
+	height: 174px;
+	background-color: #61b64d;
+	/** background-color: #9e69c0; **/
+
+	transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-ms-transition: all 0.5s;
+}
+.box-content-hover {
+	position: absolute;
+	z-index: 2;
+	top: 120px;
+	left: 0px;
+	width: 174px;
+	height: 174px;
+	background-color: #9e69c0;
+}
+.box-content span, .box-content-hover span {
+	display: block;
+	padding-top: 7px;
+	font-size: 15px;
+	color: #fff;
+}
+.btn-box-round {
+	margin-top: 30px;
+}
+.box:hover .box-content {
+	top: 0px;
+	padding-top: 30px;
+}
+.box:hover .img-cross {
+	top: -100px;
+}
+.info {
+	float: left;
+	margin: 20px 0 20px 230px;
+	width: 540px;
+	padding: 20px 25px;
+	border-radius: 7px;
+	border: dashed 1px #fff;
+	font-size: 16px;
+	text-align: justify;
+}
+.info h2 {
+	padding:0;
+	margin: 0;
+}
+.info h2, .info span {
+	color: #fff;
+	font-family: "open_sanslight";
+}
+
+.footer {
+	height: 150px;
+	padding-top: 30px;
+	background-color: #682d77
+}
+.footer a {
+	display: inline;
+	margin: 20px 5px 0 5px;
+}
+.footer a img {
+	transition: all 0.7s;
+	-webkit-transition: all 0.7s;
+	-moz-transition: all 0.7s;
+	-ms-transition: all 0.7s;
+}
+.footer a:hover img {
+	transform:rotate(360deg);
+	-webkit-transform:rotate(360deg);
+	-moz-transform:rotate(360deg);
+	-ms-transform:rotate(360deg);
+}
+.footer span {
+	display: block;
+	padding: 15px;
+	color: #fff;
+	font-size: 15px;
+}
+
+/** min-width: 768px
+************************************************************************/
+@media (min-width: 768px) {
+}
+
+/** min-width: 992px
+************************************************************************/
+@media (min-width: 992px) { 
+}
+
+/** min-width: 1200px
+************************************************************************/
+@media (min-width: 1200px) { 
+}

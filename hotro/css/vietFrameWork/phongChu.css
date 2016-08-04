@@ -1,0 +1,27 @@
+/* Được tạo bởi Font Squirrel (http://www.fontsquirrel.com) on July 15, 2014 */
+
+
+
+@font-face {
+    font-family: 'open_sanslight';
+    src: url('../../phongchu/vietFrameWork/opensans-light-webfont.eot');
+    src: url('../../phongchu/vietFrameWork/opensans-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../phongchu/vietFrameWork/opensans-light-webfont.woff') format('woff'),
+         url('../../phongchu/vietFrameWork/opensans-light-webfont.ttf') format('truetype'),
+         url('../../phongchu/vietFrameWork/opensans-light-webfont.svg#open_sanslight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('../../phongchu/vietFrameWork/opensans-regular-webfont.eot');
+    src: url('../../phongchu/vietFrameWork/opensans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../phongchu/vietFrameWork/opensans-regular-webfont.woff') format('woff'),
+         url('../../phongchu/vietFrameWork/opensans-regular-webfont.ttf') format('truetype'),
+         url('../../phongchu/vietFrameWork/opensans-regular-webfont.svg#open_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

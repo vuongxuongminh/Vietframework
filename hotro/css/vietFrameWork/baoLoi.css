@@ -1,0 +1,94 @@
+/*
+ * VIỆT FRAME WORK
+ * FRAMEWORK VIỆT CHO NGƯỜI VIỆT
+ * 
+ * NHÓM PHÁT TRIỂN          Việt Framework Group
+ * NĂM PHÁT TRIỂN           2014
+ * TRANG CHỦ                http://vietframework.com
+ * HÒM THƯ                  admin@vietframework.com
+ * NGÀY VIẾT                15/07/2014
+ * PHIÊN BẢN                2.0.0
+ * BẢN QUYỀN                HỆ THỐNG MÃ NGUỒN MỞ NHƯNG VUI LÒNG TÔN TRỌNG CÁC THÔNG TIN NHÓM PHÁT TRIỂN
+ */
+ 
+body, h1, h2, h3, h4, h5, p, span {
+	font-family: "open_sansregular";
+	cursor: default;
+}
+body {
+	background-color: #e3c9fe;
+	background-image: url(../../hinhanh/vietFrameWork/logo-baoloi.png);
+	background-position: center top;
+	background-repeat: no-repeat;
+}
+.nopadding {
+	padding: 0 !important;
+}
+.nomargin {
+	margin: 0 !important;
+}
+.main {
+	padding-top: 130px;
+}
+.main-right img {
+	max-width: 100%;
+}
+.box {
+	width: 100%;
+	margin-top: 30px;
+}
+.header {
+	width: 100%;
+	background-color: #f3ab62;
+}
+.header span {
+	display: block;
+	padding: 15px 20px;
+	color: #711111;
+	font-size: 20px;
+}
+.article {
+	width: 100%;
+	padding: 20px 20px;
+	background-color: #fff;
+	font-size: 16px;
+	line-height: 1.5em;
+}
+.article p {
+	font-size: 16px;
+	line-height: 1.5em;
+	word-wrap: break-word;
+}
+.footer {
+	width: 100%;
+	padding: 15px 20px;
+	background-color: #e2e3e2;
+	font-size: 16px;
+	line-height: 1.5em;
+	margin-bottom: 40px;
+}
+.footer p {
+	font-size: 16px;
+	line-height: 1.5em;
+}
+.header span { display: block; padding: 15px 20px; color: #711111; font-size: 20px; word-wrap: break-word; } 
+.footer p { font-size: 16px; line-height: 1.5em; word-wrap: break-word; }
+
+/** min-width: 768px
+************************************************************************/
+@media (min-width: 768px) {
+
+}
+
+/** min-width: 992px
+************************************************************************/
+@media (min-width: 992px) { 
+
+}
+
+/** min-width: 1200px
+************************************************************************/
+@media (min-width: 1200px) { 
+
+
+}
